@@ -1,28 +1,21 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.matrixdevteam.dateinstatusbar
+Version: 1.0.1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 129
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/dateinstatusbar_1.0.1.deb
+Size: 3630
+MD5sum: 6ebfc1d74d4f6aaffa2d4930d098eec8
+SHA1: e117bbdde30d0f557c727247036ce6023e375df0
+SHA256: e4c9ee108d62775faad213003f32d4320630d024c3682d818a78c3bb0fd0cf30
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dateinstatusbarDp
+Description: Adds current date to the status bar
+Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
+Author: MatrixDevTeam <matrixdevteamcydiasupp0rt71@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dateinstatusbarDp
+Dev: matrixdevteam
+Name: Date In StatusBar
+Sponsor: thebigboss.org <http://thebigboss.org>
 
