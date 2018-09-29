@@ -1,3 +1,29 @@
+Package: com.anemonetheming.anemone
+Version: 2.1.8-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 8312
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
+Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./debs/anemone_2.1.8-1.deb
+Size: 1868662
+MD5sum: ae3df40f3a84bc0b7b772b29769cc313
+SHA1: a82fc5f7db20432cc102b49694b3ab1c74ddb980
+SHA256: 92936976d7cd195a735049c72017c607b30ee33e97829e3dfce93376fe992ce8
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Description: An awesome theme manager!
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Dev: anemonetheming
+Icon: file:///Applications/Anemone.app/icon.png
+Name: Anemone
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.matrixdevteam.dateinstatusbar
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -17,5 +43,48 @@ Author: MatrixDevTeam <matrixdevteamcydiasupp0rt71@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dateinstatusbarDp
 Dev: matrixdevteam
 Name: Date In StatusBar
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: net.angelxwind.appsyncunified
+Version: 24.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 256
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/AppSync-Unified.deb
+Size: 30148
+MD5sum: d519bd78ef96e4a130a74b47f6ee9f04
+SHA1: 3533a274865c57192cd79606188bb739a7d53078
+SHA256: f797d61d7c707d1589fed954f46b25c47a96b1f0eb238cdbe23d214739c6b4c1
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: org.thebigboss.slices
+Version: 0.2.7-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 764
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.5.0)
+Filename: ./debs/slices_v0.2.7-3.deb
+Size: 116244
+MD5sum: 7300e0995b366a8bad291500fc2070b5
+SHA1: 96a31e1bec57adac92df92a880a1457ff7ab4ae4
+SHA256: fca2ceb3262293e970569ab7e86bbb9dbf13fd860c10238dd364396e8e2a0a3e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slicesDp
+Description: multiple setting & data bundles for apps
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Stevie Hetelekides <hetelek@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slicesDp
+Dev: hetelek
+Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
+Name: Slices
 Sponsor: thebigboss.org <http://thebigboss.org>
 
