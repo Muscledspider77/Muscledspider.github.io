@@ -63,7 +63,7 @@ Section: Tweaks
 Homepage: https://cydia.angelxwind.net/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
-Depiction: https://raw.githubusercontent.com/Muscledspider77/Repo/master/depictions/index.html
+Depiction: https://Muscledspider77.github.io/Repo/depictions/index.html
 Name: AppSync Unified
 
 Package: org.thebigboss.slices
