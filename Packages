@@ -1,3 +1,19 @@
+Package: com.6ilent.ccviewcharge
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: 6ilent <pkmnx7802@gmail.com>
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/com.6ilent.ccviewcharge_1.1.0.deb
+Size: 32956
+MD5sum: 36d6402659c153275267ba265f763149
+SHA1: 9a609569f5da26dd072b24823192de68e8f713b3
+SHA256: 3380067210441fb961efdb977e4ab4f2bb2c4d7f0fa3498573ffbe7e715e0e76
+Section: Tweaks
+Description: Check to see if your device is charging from the CC!
+Author: 6ilent <pkmnx7802@gmail.com>
+Name: CCViewCharge
+
 Package: com.anemonetheming.anemone
 Version: 2.1.8-1
 Architecture: iphoneos-arm
@@ -18,11 +34,272 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
 Description: An awesome theme manager!
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Author: AnemoneTeam <anemonetheming@gmail.com>
-Depiction: https://Muscledspider77.github.io/Repo/depictions/anemone/index.html
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
 Dev: anemonetheming
 Icon: file:///Applications/Anemone.app/icon.png
 Name: Anemone
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.3.deb
+Size: 24124
+MD5sum: 80d247ba4b65e321c7d82bface4d053b
+SHA1: 0561475916d0b6594721e890a0c00d4c9e81a6f7
+SHA256: 903e6973f580afc3e252fe9bb40a342fe58e5fd9c2697055a9f563896d713909
+Section: Tweaks
+Description: Quick emoji access for iPhone X
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.benrosen.facespro
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 452
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
+Filename: ./debs/com.cpdigitaldarkroom.benrosen.facespro_1.2.deb
+Size: 132486
+MD5sum: d4a33ae04d5197952bb029d6e0cd76ce
+SHA1: 23904da324d630c70ec32108c3453375ec9206d8
+SHA256: 9b6dd24c662ac4939cb3a206f79a0efcc6a8770f5d1cd8d77a20117f2a83e263
+Section: Tweaks
+Description: Customize your passcode buttons the way you like.
+Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
+Name: Faces Pro
+
+Package: com.cpdigitaldarkroom.bundlr
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 532
+Filename: ./debs/com.cpdigitaldarkroom.bundlr_0.0.2.deb
+Size: 222840
+MD5sum: 81cce7c02ea98dc25071bda6d6851bc9
+SHA1: 2ed130ed506c0a1b50ddc5e412ec483a982a9e82
+SHA256: 588d94fdc28e00fd4dbca707df899fc6b2d8fce83a0d817704f390e4d2b78bea
+Section: Utilities
+Description: Bundlr is a small app for designers. Bundlr makes it simple to lookup app bundle ids without having to download the app from the AppStore. This is a very limited initial release so don't expect much more than bare bones. Currently it only works for the US appstore and only iphone apps. I'll add in iPad apps and changing the appstore country. Also more awesome features will get added in the near future.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Bundlr
+
+Package: com.cpdigitaldarkroom.eventonappclose
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 304
+Depends: mobilesubstrate, libactivator, applist
+Filename: ./debs/com.cpdigitaldarkroom.eventonappclose_1.1.1.deb
+Size: 48048
+MD5sum: 5d759c8fbae9f3a48b253e561bcfb7a6
+SHA1: 51380fa352d668c3075ea84f71c246c7755de70f
+SHA256: 787be2716f32d3b5e2ebdf1072ad6096e0bed0835afb3a23cf33763d0b0bbf9e
+Section: Addons (Activator)
+Priority: optional
+Description: Trigger Events On Application Close
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: EventOnAppClose
+
+Package: com.cpdigitaldarkroom.fappsize
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 724
+Depends: mobilesubstrate
+Filename: ./debs/com.cpdigitaldarkroom.fappsize_0.0.4.deb
+Size: 169358
+MD5sum: 37b0fc61f3b62a58f98f86af188a5a72
+SHA1: bbba58569305afd92a3814bcdb3dfd01e1a780c0
+SHA256: 2e70a390a7d480573d4a9c8963579e226321d5b3e4334f925481dde692195b19
+Section: Tweaks
+Description: Show Application Size As Shortcut Item
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: FᵃᵖᵖSize
+
+Package: com.cpdigitaldarkroom.fastunlockx
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./debs/com.cpdigitaldarkroom.fastunlockx_1.4.deb
+Size: 19558
+MD5sum: 3db3fcacf6568e5316be5c344d60fcff
+SHA1: 2e4a7a7ae7e8c76ea85511d1fe7959857ed4f0a1
+SHA256: d9d3c56f2697463d56514eabd5b51b6af6c0826b89baed015b52f2b266ae5b96
+Section: Tweaks
+Description: Faster unlock for iPhone X
+Tag: compatible_min::ios10, compatible_max::ios11.4, purpose::extension
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: FastUnlockX
+
+Package: com.cpdigitaldarkroom.taptapflip
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/com.cpdigitaldarkroom.taptapflip_1.4.deb
+Size: 6530
+MD5sum: e135892b05a0aa7489fc66c6ff85cf7c
+SHA1: a2992aaae6333106b20fb1e535cf54452201783d
+SHA256: cf2d80051ae10d2d023fb485757dd9fedd2fb1c273600a287362f0eadd3526e1
+Section: Tweaks
+Description: Double tp to flip camera
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: TapTapFlip
+
+Package: com.cpdigitaldarkroom.watchconnection
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 200
+Depends: mobilesubstrate, libstatusbar
+Filename: ./debs/com.cpdigitaldarkroom.watchconnection_0.1.deb
+Size: 14832
+MD5sum: fa9b56c595bfd3897e0e19847266a16d
+SHA1: 33f8ad917717e696a23306bd2de7a616f92cfe27
+SHA256: c05c1676592941709fb835869b35e26aaa03d95e513eeb4589fc4c46fc7a7a70
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.watchconnection/
+Description: Statusbar Icon For Apple Watch Status
+Tag: purpose::extension, cydia::free, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.watchconnection/
+Dev: cpdigitaldarkroom
+Name: WatchConnection
+
+Package: com.filippobiga.cpdigitaldarkroom.harlem
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 656
+Depends: mobilesubstrate, libactivator
+Filename: ./debs/com.filippobiga.cpdigitaldarkroom.harlem_0.4.deb
+Size: 505624
+MD5sum: 79ea30078ac862226fadda016e2804ed
+SHA1: 583f2a5d35d0c1437eab62bd0eaa3f61fc32838b
+SHA256: 47a3d49f146a92c8387db41ad24347573d77d86bc560934df830b20feebb0e06
+Section: Tweaks
+Description: SpringBoard Harlem Shake!
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Harlem Shake
+
+Package: com.fpt.noteconfirm
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Frozen Penguin
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.fpt.noteconfirm_1.0.0.deb
+Size: 5842
+MD5sum: 2464c8a207d350c851e0461f0eac4880
+SHA1: 9211db3cecca441c69ad0a375bc5ea4791299125
+SHA256: 1db662c91d7ed34539f711fad7e504c17c70c3f9fd136ae49c6073ba2f5836f1
+Section: Tweaks
+Description: Confirm to delete notes
+Author: Frozen Penguin
+Name: ConfirmToDeleteNote
+
+Package: com.harrywantstodev.nomorefeedback
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: harrywantstodev
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.harrywantstodev.nomorefeedback_0.0.1.deb
+Size: 3558
+MD5sum: b4c5ec7937b8dc2a4d93c328ff83a0b4
+SHA1: 9417f53e476c02a250a999557e3b6495cad7e00d
+SHA256: a8eb8a1f0a333425aab10476fc5598878a01268e05d5745a8ff40e5b6c377b16
+Section: Tweaks
+Description: Hide that Feedback icon
+Author: harrywantstodev
+Name: NoMoreFeedback
+
+Package: com.ioscreatix.littlex
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.littlex_1.3.4.deb
+Size: 27034
+MD5sum: 2621f815a2a92a9b91a9a02867a9eec7
+SHA1: 4bd3cacef1cf7b549d37bc224ae9f37fc7c7e2a2
+SHA256: 656c9973fa2251c224259b9495a4602ff363ce5aa386ac3b56570b8d83b04021
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iOS Creatix
+Name: LittleX
+
+Package: com.ioscreatix.peek-a-boo
+Version: 11.0.2
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Installed-Size: 276
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.peek-a-boo_11.0.2.deb
+Size: 43590
+MD5sum: 019b0375b74230522b74c2fc25f8f8bd
+SHA1: 9c0266ff6db1ef01f1152ce99a7d7552e3c622ac
+SHA256: 603bf80d05c5fac324171068f5009a82814e19790c24d0974c4b8aa8a32a5c32
+Section: Tweaks
+Description: 3D Touch on Non-3D-Touch Devices
+Author: iOS Creatix
+Name: Peek-a-Boo
+
+Package: com.jeffresc.teslazeppelinlogo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: JeffResc
+Installed-Size: 12
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.jeffresc.teslazeppelinlogo_1.0.0.deb
+Size: 6172
+MD5sum: 7a016efc6c50c17c72e466ee5a68411e
+SHA1: 94ce76afaf4d8c8cfc3035936be2da5dd990d602
+SHA256: e079bd8b55fa5dfb9ce0583cc3901dbaad8b41e0195f5fbcd6e6304aa8187431
+Section: Zeppelin
+Description: Zeppelin Icon of the Tesla Logo
+Author: JeffResc
+Name: Tesla Zeppelin Logo
+
+Package: com.justinpetkovic.youtubetools
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.justinpetkovic.youtubetools_2.0.deb
+Size: 17838
+MD5sum: 9f56d687b3789f2630c46d2523f91ce0
+SHA1: bfd15f36ac178e2f57f89436dae611ba3c66533c
+SHA256: 67d01336b6216996a7fbbe4785311795a7da4f59e0f1204a655b8a72448d1d31
+Section: Tweaks
+Description: Essential toolbox for YouTube app.
+Author: Justin Petkovic
+Name: YouTube Tools
+
+Package: com.lacertosusrepo.einsteinvibes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LacertosusDeus <LacertosusThemes@gmail.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.lacertosusrepo.einsteinvibes_1.0.deb
+Size: 2264
+MD5sum: 05f72ae629f62b3f486820ea18259041
+SHA1: 18503fdb695ab273fe8dcb919de0402d0e52cf9c
+SHA256: 9df5c525df2ed6d6d8538f6c63be9f21cd5977b40044b7813dd9340f0bb2093a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Name: EinsteinVibes
 
 Package: com.matrixdevteam.dateinstatusbar
 Version: 1.0.1
@@ -45,6 +322,194 @@ Dev: matrixdevteam
 Name: Date In StatusBar
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.midnightchips.bettersettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 1820
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
+Filename: ./debs/com.midnightchips.bettersettings_0.0.1.deb
+Size: 1230414
+MD5sum: 0b6ac2b03fc0a4c19f398e0115a407df
+SHA1: 49896fc3b5a06a3997ecd7076ddf04c66ec74118
+SHA256: 3ee5171f8b8143ecf4f9b27b369b5755c4a29c7f9ecaa80a11e650439b2f3bcf
+Section: Tweaks
+Description: Settings your way
+Author: midnightchips
+Name: BetterSettings
+
+Package: com.midnightchips.bettersettings10
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 556
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware(<<11)
+Filename: ./debs/com.midnightchips.bettersettings10_0.0.1.deb
+Size: 89980
+MD5sum: f9acfeed7a5578615fba84b970cc98b8
+SHA1: fcede5f4316421bf449e4ac3daa6c06eb2555a35
+SHA256: e99558d912fbaada08ca27420ce573e332dbd8ac7a584f5665c95cb241158819
+Section: Tweaks
+Description: Settings your way
+Author: midnightchips
+Name: BetterSettings10
+
+Package: com.midnightchips.betterwhatsapp
+Version: 0.0.1-beta
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 192
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: ./debs/com.midnightchips.betterwhatsapp_0.0.1-beta.deb
+Size: 16048
+MD5sum: 50417b2a31452cf4ab4261527bbe7ead
+SHA1: a0fb7dfe0d1aa74dbe0ee35e88edb712a3516219
+SHA256: adab106b52c7a9a4b5cfff913cf4aa70761aeabd81257e703788efeb3bc9f007
+Section: Tweaks
+Description: WhatsApp your way
+Author: midnightchips
+Name: BetterWhatsApp
+
+Package: com.rishanan.nvs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rishanan
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.rishanan.nvs_1.0.deb
+Size: 2522
+MD5sum: 77fae0503e0601269775c88edb75c237
+SHA1: 59d29c5fe38151e585d0a1debaf32345a447f83b
+SHA256: a3fe0b70ba9d3b189660a80ccb91c7d7fcdadebb2dd576970924ac695455ff02
+Section: Tweaks
+Description: No volume slider for all apps.
+Author: Rishanan
+Name: No Volume Slider
+
+Package: com.secondeight1.dockinswitcher
+Version: 1.0-17+debug
+Architecture: iphoneos-arm
+Maintainer: SecondEight1
+Installed-Size: 264
+Depends: mobilesubstrate, com.imkpatil.floatingdock
+Filename: ./debs/com.secondeight1.dockinswitcher_1.0-17+debug.deb
+Size: 15960
+MD5sum: 4c9f4ea962fbfa2e4f4a16d11cd0308e
+SHA1: 1af8c01a983bda677da10a07560599007b7765b6
+SHA256: db9ed1a91c7e0bf2714865c6263f78b954e01eb06521ed47f510986e945290c7
+Section: Tweaks
+Description: Makes the dock visible in the App Switcher at all times.
+Author: SecondEight1
+Name: DockInSwitcher
+
+Package: com.smokin1337.fdots
+Version: 1.0.0-4
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.smokin1337.fdots_1.0.0-4.deb
+Size: 47880
+MD5sum: fafa2fc9e61e8e7cc7451cb586d17060
+SHA1: a8462e4c511cc6003e776d69575e5b36e90a1403
+SHA256: 70e805771a38169081c8d7758d94723ca6250fb0c9fd02ab9af919d499b5851c
+Section: Tweaks
+Description: Hide annoying dots. Hides badges, update, beta and page dots.
+Author: smokin1337
+Name: FDots
+
+Package: com.smokin1337.hurryupcc
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 628
+Depends: mobilesubstrate
+Filename: ./debs/com.smokin1337.hurryupcc_1.0-1.deb
+Size: 154052
+MD5sum: 2111fb24dba7913646296c149b4f77bc
+SHA1: f2690f56bbe728b7713db73d07669094e755b7a6
+SHA256: 44aa8657629c7a55c3977cb1dd113536458e5ba75c920dc640266199daaadea5
+Section: Tweaks
+Description: Speed up or slow down CC animations!
+Author: smokin1337
+Name: HurryUpCC
+
+Package: com.tonykraft.inosleep
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.inosleep_1.2.3.deb
+Size: 30304
+MD5sum: 800fbe654270f4722edf428a68502c55
+SHA1: d41a5b0a9220a35cbd3924fb95c4dbefff9ea66d
+SHA256: 26873af10b42d2a1680adc975208ca2c418da397535981daa049cc7f60f97fac
+Section: Tweaks
+Description: Allows Wifi to stay connected when the device is locked.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+Name: iNoSleep
+
+Package: com.unlimapps.uasharedtools.nostash
+Version: 2.2r-61
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Replaces: com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Provides: com.unlimapps.uasharedtools.virtual
+Filename: ./debs/com.unlimapps.uasharedtools.nostash_2.2r-61.deb
+Size: 22785424
+MD5sum: 57aee2d915780a062b05e95279402e61
+SHA1: b016a60349118f5c3cd6a81b0ad92c434e7a1ec5
+SHA256: 85927a443666d0c51e64d953974e0f87361f5ababe0a30795dcbadd910c858d6
+Section: Development
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Description: shared tools for unlimapps tweaks
+Tag: purpose::library, cydia::obsolete, role::developer
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Dev: i4iphones
+Name: uasharedtools (iOS 11)
+
+Package: eu.bednarz.eyeris
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Dennis D. Bednarz <Dennis.bednarz@outlook.com>
+Depends: firmware (>= 7.0), mobilesubstrate, com.anemonetheming.anemone
+Filename: ./debs/eu.bednarz.eyeris_2.0.deb
+Size: 1861492
+MD5sum: 16537117613d82bbcc6165c5db2a0ca3
+SHA1: 9b2f5eac5dc3eb15f73930b2de86049080582314
+SHA256: 621ca383324f6209d7081f015dc0cdff4bdf3cc325c74222d94d8780b3140e1d
+Section: Themes
+Description: A skeuomodern theme.
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Dennis D. Bednarz <Dennis.bednarz@outlook.com>
+Depiction: https://repo.chariz.io/package/eu.bednarz.eyeris/
+Name: Mojito
+
+Package: net.angelxwind.appsync40plus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
+Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: ./debs/net.angelxwind.appsync40plus_1.2.2.deb
+Size: 9328
+MD5sum: b9e59bbb960b060c812cf19a23d8f224
+SHA1: 605c2ac3064ecedceb6cf616300f8daafc2921c4
+SHA256: 31209bc1aa647a524833b1ce3f9478f6b6149c040f9ab411b256002b9b0f7a79
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: AppSync Unified allows you to sync and install unsigned iOS applications. Only for iOS 4.
+Author: Karen/あけみ, Dissident <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsync40plus
+Name: AppSync for iOS 4.0
+
 Package: net.angelxwind.appsyncunified
 Version: 24.0
 Architecture: iphoneos-arm
@@ -63,8 +528,160 @@ Section: Tweaks
 Homepage: https://cydia.angelxwind.net/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
-Depiction: https://Muscledspider77.github.io/Repo/depictions/index.html
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
 Name: AppSync Unified
+
+Package: net.angelxwind.mobileterminal-applesdk
+Version: 521-karen-2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/net.angelxwind.mobileterminal-applesdk_521-karen-2.deb
+Size: 248098
+MD5sum: b56e68e578381ad1b595af6eced79f80
+SHA1: f400784b7d7dc7439da8f6ec9595c5efc820873c
+SHA256: f9343117d82e6390dbe17d7938cb9e5668e5f149f8e5c710cfea6ef15cd4a0d3
+Section: Terminal_Support
+Homepage: https://cydia.angelxwind.net
+Description: A Terminal emulator. This is a Terminal emulator for the iPhone. With it you can do all of your standard system administration tasks from anywhere: SSH into remote boxes, download files, edit configuration files, whatever.
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mobileterminal-applesdk
+Name: MobileTerminal
+
+Package: net.limneos.MobileMiner
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Filename: ./debs/net.limneos.MobileMiner_1.0.deb
+Size: 995932
+MD5sum: cc49ff74c10638bd3eb4ada73c47ffdb
+SHA1: 9b2a786dbdbf798a525635ccde08be30e091b020
+SHA256: dd2fa4203abaf55d20753f0a0e9c196ff43e998fc23703c91de8eddb8c851a93
+Section: System
+Description: Mine ETN with your iPhone!
+Tag: role::hacker
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Applications/MobileMiner.app/AppIcon60x60@2x.png
+Name: MobileMiner
+
+Package: net.limneos.answeringmachinex
+Version: 0.4-21
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1576
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80) , zip,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: ./debs/net.limneos.answeringmachinex_0.4-21.deb
+Size: 476096
+MD5sum: ca288c0cce80abde96b1d7648c684484
+SHA1: 7e3162c42dde4d42c0f417513f84bffd0bfe91ad
+SHA256: d70a3a034c2b14c42c788a41ad054e2a0ada84c356e1ca870f86d0b553157262
+Section: Tweaks
+Description: AnsweringMachine X
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.answeringmachinex
+Mainlibmd5: 66612334d529f6fedd42237ba008d5c1
+Name: AnsweringMachineX
+
+Package: net.limneos.instaonlinemonitor
+Version: 0.1-61
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 752
+Depends: mobilesubstrate, preferenceLoader, net.limneos.libbulletin (>= 0.1-142)
+Filename: ./debs/net.limneos.instaonlinemonitor_0.1-61.deb
+Size: 278412
+MD5sum: 94bdb7987615ed64733e449998c1e29c
+SHA1: 24e8d2878b4b56f7876e4d5b0d2dc371a24e27ec
+SHA256: 8a6d461e873d6cc785a35bc7489626977741357edc83b31223bec7f0c4597986
+Section: Tweaks
+Description: Get notified when an Instagram user is online!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.instaonlinemonitor
+Icon: file:///Library/PreferenceBundles/InstaOnlineMonitor.bundle/InstaOnlineMonitor.png
+Name: InstaOnlineMonitor
+
+Package: org.coolstar.circleicons
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/_1.3.deb
+Size: 103686
+MD5sum: 76612aa760a7e7ef207dfd896f462969
+SHA1: 19fc572f5b702208f4ff328006758f6d19210db9
+SHA256: 3eee4236eb29b1b0b31b60074aaf772c93fcb4b44f5c500121b025090c62e691
+Section: Themes
+Description: Circle Icons with cool overlays!
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: CircleIcons
+
+Package: org.coolstar.classicfonts
+Version: 0.0.1-9
+Architecture: iphoneos-arm
+Maintainer: CoolStar
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/org.coolstar.classicfonts_0.0.1-9.deb
+Size: 4164
+MD5sum: fc18c2c75d7a966028f16759feeab45a
+SHA1: 9525ac9cf4587aca75cdc2728a7b666701179fa4
+SHA256: 8b23b6a3628432c03ed6dc62a339b9e2ce8fcb487b89f43ab4d3beae44bbfb2e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: Classic Fonts
+
+Package: org.coolstar.perl
+Version: 5.22.0
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Replaces: perl
+Provides: perl
+Filename: ./debs/org.coolstar.perl_5.22.0.deb
+Size: 17765778
+MD5sum: d07f58aedb64c3bd79ce63accd55578c
+SHA1: 511fa06bcc78fc78a3f8a024f6d029fda649c62b
+SHA256: 7c944061c0a29f87084baf0899d1e067f16f2bab1101327fb813396ab5ca8a3e
+Section: Development
+Tag: purpose::console, role::hacker
+Name: Perl
+
+Package: org.coolstar.removepasscode
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: CoolStar
+Installed-Size: 64
+Filename: ./debs/org.coolstar.removepasscode_1.0.0-1.deb
+Size: 2890
+MD5sum: c7524db044beb14a2198c792e449d7fe
+SHA1: 1cd3f06ef9c3d4223d8ab2d7f39fcdb063008189
+SHA256: b43db560689f1097585c2d1864619191830170fb09d20a214ebb3053472a5409
+Section: System
+Description: Remove iOS passcodes over SSH. Compatible with iOS 5.0 - iOS 8.1.2. DOES NOT WORK IN SAFESTRAT ENVIRONMENT YET.
+Tag: role::hacker
+Author: CoolStar
+Name: RemovePasscode
+
+Package: org.hacx.callrecorder
+Version: 2.39
+Architecture: iphoneos-arm
+Maintainer: hAcx <callrecorder@hacx.org>
+Depends: firmware (>= 8.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.3), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Conflicts: org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.superrecorder.ios9
+Replaces: repo.so.callrecorder
+Filename: ./debs/org.hacx.callrecorder_2.39.deb
+Size: 5191808
+MD5sum: d04375f01e6b1fbc08fdce87e85511b8
+SHA1: 5f130108d4525c3bdd565d9c06fc780e9fbd0284
+SHA256: 094a8b8afddd04ab9e0473d10178aae75da62756b8edb3af14817ebb61d8e489
+Section: Tweaks
+Description: World famous Call Recorder
+Author: hAcx <callrecorder@hacx.org>
+Depiction: http://hacx.org/cydia/callrecorder_depiction.php
+Icon: file:///Applications/CallRecorder.app/Icon.png
+Name: Call Recorder (iOS)
 
 Package: org.thebigboss.slices
 Version: 0.2.7-3
@@ -87,3 +704,69 @@ Dev: hetelek
 Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
 Name: Slices
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: se.nosskirneh.autodismisssiri
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Andreas Henriksson
+Installed-Size: 344
+Depends: mobilesubstrate
+Filename: ./debs/se.nosskirneh.autodismisssiri_1.0.deb
+Size: 57408
+MD5sum: ee8caba76360c12052d8c85a9bfb2bb6
+SHA1: 06398efb9d282695b3547e532db03a8684821eff
+SHA256: a5f05a920f01463f6dd70656b581d2da1ba409048826181689aa6d4b0ef4203f
+Section: Tweaks
+Description: Automatically dismiss Siri after some idle time
+Author: Andreas Henriksson
+Name: AutoDismissSiri
+
+Package: ws.hbang.totesactivated
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/ws.hbang.totesactivated_1.0.deb
+Size: 2822
+MD5sum: 9ff93dc1b6d84c07339414e38981fc5d
+SHA1: 3528efac41d54198ffa967d591cf890b89d1f1a9
+SHA256: 3bfc3d97919d8b61f6640da0b728610e124f8addb21d7f9ece278c83ca474d49
+Section: Tweaks
+Description: Disable all activation errors
+Author: HASHBANG Productions <support@hbang.ws>
+Name: TotesActivated
+
+Package: ws.hbang.writingaletter2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 288
+Depends: mobilesubstrate, ws.hbang.writingaletter2.agents, firmware (>= 8.0)
+Filename: ./debs/ws.hbang.writingaletter2_2.0.deb
+Size: 22456
+MD5sum: 1d8f9b72b67582bc5eacf0cb1cdf1087
+SHA1: f384590b859ad7433b737550190ce60a0c8dda85
+SHA256: e0e7a7eead641d3597a6f308a5c3fa2cec1adfc0f09f1a6695f618e1cc28bbfb
+Section: Toys
+Description: Would you like help?
+Author: HASHBANG Productions <support@hbang.ws>
+Name: WritingALetter 2
+
+Package: ws.igx
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: WS
+Installed-Size: 344
+Depends: mobilesubstrate
+Filename: ./debs/ws.igx_0.2.deb
+Size: 44264
+MD5sum: 763daa43230f860e5e5edfd09ab0cc69
+SHA1: 921c38069d70ca106fdbf7b547008442736fbb17
+SHA256: f6f36fda03f6246360b1df82b780abad0c6a5f88f8a93b5b92b5f4aa0df75542
+Section: Tweaks
+Homepage: https://twitter.com/whitesauce
+Description: A lightweight tweak for Instagram!
+Author: WS <ws@reportabug.co>
+Name: Instagram X
+
