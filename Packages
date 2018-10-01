@@ -18,7 +18,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
 Description: An awesome theme manager!
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Author: AnemoneTeam <anemonetheming@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Depiction: https://Muscledspider77.github.io/Repo/depictions/anemone/index.html
 Dev: anemonetheming
 Icon: file:///Applications/Anemone.app/icon.png
 Name: Anemone
@@ -63,7 +63,7 @@ Section: Tweaks
 Homepage: https://cydia.angelxwind.net/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
-Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Depiction: https://Muscledspider77.github.io/Repo/depictions/index.html
 Name: AppSync Unified
 
 Package: org.thebigboss.slices
@@ -87,4 +87,3 @@ Dev: hetelek
 Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
 Name: Slices
 Sponsor: thebigboss.org <http://thebigboss.org>
-
