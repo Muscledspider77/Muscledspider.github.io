@@ -1,17 +1,17 @@
 Package: com.kristiivanenco.test
-Version: 0.0.1-3+debug
+Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
 Maintainer: Kristi Ivanenco
 Installed-Size: 100
 Depends: mobilesubstrate
-Filename: ./debs/com.kristiivanenco.test_0.0.1-3+debug_iphoneos-arm.deb
-Size: 3850
-MD5sum: b34cc8147e68503feed92f9c838d9638
-SHA1: 5771fe8620c4d543aaa5482a54403f1dfe8d9a56
-SHA256: 23f9c621572c5c0e75ea916cc5fd634b8dfe21c070b4e53d677363b0802ff501
+Filename: ./debs/com.kristiivanenco.test_0.0.1-4+debug_iphoneos-arm.deb
+Size: 3842
+MD5sum: ac95316accaad7738b27aacedf4602fc
+SHA1: 511d762c884c5817398d2d4ff881ba5fa81b5a66
+SHA256: b02625e8145b2ad83feeb1a802e78febdf62faba3bf3435550c03ae6c1e58176
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Kristi Ivanenco
-Depiction: https://muscledspider77.github.io/Repo/depictions/?p=com.kristiivanenco.test
+Depiction: https://muscledspider77.github.io/Repo/depictions/com.kristiivanenco.test
 Name: test
 
