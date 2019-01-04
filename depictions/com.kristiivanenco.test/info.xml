@@ -1,6 +1,6 @@
 <package>
-    <id>dateinstatusbar_1.0.1</id>
-    <name>Date In StatusBar</name>
+    <id>com.kristiivanenco.test</id>
+    <name>test</name>
     <version>1.0.1</version>
     <compatibility>
         <firmware>
@@ -11,7 +11,7 @@
     </compatibility>
     <dependencies></dependencies>
     <descriptionlist>
-        <description>Adds current date to the status bar...</description>
+        <description>An awesome MobileSubstrate tweak!</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
